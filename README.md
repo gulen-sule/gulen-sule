@@ -1,6 +1,6 @@
 ### Hi I'm Şule Gülen Keçeli
 - 📫 How to reach me:
-[gulensule@gmail.com] || [https://www.linkedin.com//in/şule-gülen-keçeli-827236173]
+[gulensule@gmail.com] || [https://www.linkedin.com/in/sule-gulen-keceli]
 <!--
 **gulen-sule/gulen-sule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
